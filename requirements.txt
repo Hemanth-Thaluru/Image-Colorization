@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+matplotlib==2.1.2
+scikit-image
+spyder==4.1.3
+torch
+Pillow
